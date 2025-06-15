@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c4ddbe0-db0f-46cc-a874-ff392b7713f1)![image](https://github.com/user-attachments/assets/7e7abe2b-63e2-4de1-badd-ea8873c4b9a0)### Hi! I'm Alvin.
+Hi! I'm Alvin.
 
 A student exploring the world of web development! I love building front-end and back-end solutions, with JavaScript and PHP as my favorite tools for projects.
 
