@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=150&text=Hi,%20I'm%20Alvin%20Dwi%20Ardha&fontSize=50&fontColor=bfdbfe&fontAlignY=45&animation=twinkling&desc=Informatics%20Student%20%7C%20Web%20Developer&descSize=30&descAlignY=85&descColor=93c5fd&section=header" />
+
 Hi! I'm Alvin Ardha.
 
 I'm Alvin Dwi Ardha, an Informatics student at YARSI University with a strong interest in web development. I have a solid foundation in both front-end and back-end development, primarily using JavaScript and PHP, and I enjoy exploring modern technologies to build impactful digital solutions.
