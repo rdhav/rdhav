@@ -1,6 +1,8 @@
-Hi! I'm Alvin.
+Hi! I'm Alvin Ardha.
 
-A student exploring the world of web development! I love building front-end and back-end solutions, with JavaScript and PHP as my favorite tools for projects.
+I'm Alvin Dwi Ardha, an Informatics student at YARSI University with a strong interest in web development. I have a solid foundation in both front-end and back-end development, primarily using JavaScript and PHP, and I enjoy exploring modern technologies to build impactful digital solutions.
+
+I focus on creating web applications that are not only functional and efficient but also user-friendly and meaningful. My experience includes working with technologies such as JavaScript, React, Node.js, and various web development tools. As a fast learner and problem solver, I continuously challenge myself through projects, competitions, and real-world experiences. I adapt quickly to new environments and value collaboration, always open to feedback and committed to continuous improvement.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
