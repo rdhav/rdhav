@@ -27,3 +27,11 @@ I focus on creating web applications that are not only functional and efficient 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rdhav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=150&section=header" />
