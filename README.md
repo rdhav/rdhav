@@ -16,12 +16,12 @@ I focus on creating web applications that are not only functional and efficient 
 
 ### Programming Languages
 ![My Skills](https://skillicons.dev/icons?perline=10&i=html,css,php,js,java,python)
+
   
 ### Frameworks & Libraries
-![My Skills](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite)
+![My Skills](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite)
   
 ### Tech Tools
-![My Skills](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite)
   
 ### Github Statistic
 <p align="left">
