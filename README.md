@@ -26,12 +26,13 @@ I focus on creating web applications that are not only functional and efficient 
   
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=rdhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rdhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rdhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=rank" height="160" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rdhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" height="160" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rdhav&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
 </p>
 
