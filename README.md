@@ -14,12 +14,14 @@ I focus on creating web applications that are not only functional and efficient 
 [![Profile Views](https://komarev.com/ghpvc/?username=rdhav&color=1e3a8a&style=flat&label=Profile%20Views)](https://github.com/rdhav)
 [![GitHub Followers](https://img.shields.io/github/followers/rdhav?style=flat&color=1e3a8a&label=Followers&logo=github&logoColor=f8fafc)](https://github.com/rdhav)
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://logowik.com/content/uploads/images/nodejs.jpg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <br>
-  <br>
+### Programming Languages
+![My Skills]([https://skillicons.dev/icons?perline=10&i=html,css,php,js,java,python](https://skillicons.dev/icons?perline=10&i=html,css,php,js,java,python))
+  
+### Frameworks & Libraries
+![My Skills]([https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite))
+  
+### Tech Tools
+![My Skills]([https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite))
   
 ### Github Statistic
 <p align="left">
