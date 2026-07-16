@@ -24,12 +24,17 @@ I focus on creating web applications that are not only functional and efficient 
 ### Tech Tools
 ![My Skills](https://skillicons.dev/icons?perline=7&i=codepen,figma,firebase,git,github,mongodb,mysql,postgres,npm,postman,stackoverflow,vscode,vscodium,wordpress)
   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/rdhav">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rdhav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rdhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rdhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rdhav&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+</p>
+
 
 
 
