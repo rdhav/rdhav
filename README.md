@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=150&text=Hi,%20I'm%20Alvin%20Dwi%20Ardha&fontSize=50&fontColor=bfdbfe&fontAlignY=45&animation=twinkling&desc=Informatics%20Student%20%7C%20Web%20Developer&descSize=30&descAlignY=85&descColor=93c5fd&section=header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=150&text=Hi,%20I'm%20Alvin%20Dwi%20Ardha&fontSize=50&fontColor=bfdbfe&fontAlignY=45&animation=twinkling&desc=Informatics%20Student%20%7C%20Web%20Developer&descSize=30&descAlignY=85&descColor=93c5fd&section=header" width="100%" />
+</p>
 
 Hi! I'm Alvin Ardha.
 
@@ -24,23 +26,16 @@ I focus on creating web applications that are not only functional and efficient 
 ### Tech Tools
 ![My Skills](https://skillicons.dev/icons?perline=7&i=codepen,figma,firebase,git,github,mongodb,mysql,postgres,npm,postman,stackoverflow,vscode,vscodium,wordpress)
   
-### 📊 GitHub Stats
+### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=rdhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=rank" height="160" />
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rdhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" height="160" />
-</p>
-
+![Alvin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rdhav\&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rdhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" height="160" />
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rdhav&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rdhav&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" height="160" />
 </p>
+<img alt="snake eating my contributions" src="https://github.com/muzz05/muzz05/blob/output/github-contribution-grid-snake-dark.svg" />
 
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=150&section=header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=150&section=header" width="100%"/>
+</p>
