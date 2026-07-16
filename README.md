@@ -22,6 +22,7 @@ I focus on creating web applications that are not only functional and efficient 
 ![My Skills](https://skillicons.dev/icons?perline=10&i=alpinejs,bootstrap,express,jquery,laravel,nodejs,react,sass,tailwind,vite)
   
 ### Tech Tools
+![My Skills](https://skillicons.dev/icons?perline=7&i=codepen,figma,firebase,git,github,mongodb,mysql,postgres,npm,postman,stackoverflow,vscode,vscodium,wordpress)
   
 ### Github Statistic
 <p align="left">
